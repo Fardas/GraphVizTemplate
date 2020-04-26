@@ -1,0 +1,1 @@
+g++ -Wall ./src/GVTemplate.cpp -o ./build/GVTemplate.out -L/usr/lib -lcgraph -lgvc -I/usr/include/graphviz
